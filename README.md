@@ -6,7 +6,7 @@
 
 `Blockchain ve NFT teknolojisini kullanarak kullanıcıya ham ürünü ulaştırmak istiyoruz yani orijinal olanı.`<br/>
 
-`Anlaşmalı olduğumuz firmaların mağazalarından alışveriş yapıldığında kişiye özel bir NFT tasarlanır ve bu NFT'de` <br/>
+`Alışveriş yapıldığında kişiye özel bir NFT tasarlanır ve bu NFT'de`
 `sadece üründe olan hash kodu barınmaktadır.`<br/>
 
 `Sevkiyat işlemi tamamlandıktan sonra sitemiz üzerinden MetaMask uygulaması kullanılarak transfer işlemi gerçekleştirilecektir.`<br/>
