@@ -9,6 +9,6 @@
 `Anlaşmalı olduğumuz firmaların mağazalarından alışveriş yapıldığında kişiye özel bir NFT tasarlanır ve bu NFT'de` <br/>
 `sadece üründe olan hash kodu barınmaktadır.`<br/>
 
-`Sevkiyat işlemi tamamlandıktan sonra sitemiz üzerinden MetaMask ve benzeri uygulamalar kullanarak transfer işlemi gerçekleştirilecektir.`<br/>
+`Sevkiyat işlemi tamamlandıktan sonra sitemiz üzerinden MetaMask uygulaması kullanılarak transfer işlemi gerçekleştirilecektir.`<br/>
 
-`Böylece müşteri satın aldığı ürüne ait ve eşsiz olan NFT'yi elde eder. Ayrıca lisanslı ürün aldığını da garanti etmiş olur`
+`Böylece müşteri satın aldığı ürüne ait ve eşsiz olan NFT'yi elde eder. Ayrıca lisanslı ürün aldığını da garanti etmiş olur.`
