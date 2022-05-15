@@ -1,8 +1,14 @@
 # Acikhack2022-Etaverse
-13/05/2022 | 20:30 = E-ticarette yaşanan sorunları araştırma.
 
-14/05/2022 | 09:00 = E-ticarette sorunun belirlenmesi.
+## Etaverse ProjectV1
+### *Proje amacı*
+`Bu projemizdeki asıl amaç E-Ticaret sitelerinde oldukça sık görülen replika ürünlerin yerine alternatif bir seçenek sunmaktır.`
 
-14/05/2022 | 09:50 = Soruna yönelik mentörden alınan fikirleri araştırma.
+`Blockchain ve NFT teknolojisini kullanarak kullanıcıya ham ürünü ulaştırmak istiyoruz yani orijinal olanı.`<br/>
 
-14/05/2022 | 12:00 = Soruna yönelik sektörün değişilmesi. Değişilen sektöre yönelik araştırma yapılması.
+`Anlaşmalı olduğumuz firmaların mağazalarından alışveriş yapıldığında kişiye özel bir NFT tasarlanır ve bu NFT'de` <br/>
+`sadece üründe olan hash kodu barınmaktadır.`<br/>
+
+`Sevkiyat işlemi tamamlandıktan sonra sitemiz üzerinden MetaMask ve benzeri uygulamalar kullanarak transfer işlemi gerçekleştirilecektir.`<br/>
+
+`Böylece müşteri satın aldığı ürüne ait ve eşsiz olan NFT'yi elde eder. Ayrıca lisanslı ürün aldığını da garanti etmiş olur`
